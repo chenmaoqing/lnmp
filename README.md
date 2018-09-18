@@ -1,0 +1,2 @@
+# lnmp
+script for lnmp
